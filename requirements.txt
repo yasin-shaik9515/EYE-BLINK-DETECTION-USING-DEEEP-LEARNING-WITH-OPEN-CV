@@ -1,5 +1,4 @@
-
 flask
-opencv-python==4.5.3.56
-numpy==1.19.5
+numpy==1.26.4
+opencv-python==4.9.0.80
 dlib-bin
